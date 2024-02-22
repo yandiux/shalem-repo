@@ -2,8 +2,8 @@ body {
   background-color: black;
   margin: 0;
   padding: 0;
-   background-image: url("https://img.freepik.com/vector-gratis/fondo-degradado-lineas-dinamicas-oscuras_23-2148995950.jpg?w=1380&t=st=1708614511~exp=1708615111~hmac=af0a7ebe67d2689df93a34247c44ef0ba6f7907c203abc09f92fb752df0a1059");
-   /* Full height */
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-degradado-lineas-dinamicas-oscuras_23-2148995950.jpg?w=1380&t=st=1708614511~exp=1708615111~hmac=af0a7ebe67d2689df93a34247c44ef0ba6f7907c203abc09f92fb752df0a1059");
+  /* Full height */
   height: 100%;
 
   /* Center and scale the image nicely */
@@ -51,8 +51,7 @@ body {
 .container-cuatro {
   display: flex;
   justify-content: center;
-  width: 80%;
-  margin-left: 35px;
+  width: 100%;
 }
 
 .shalem-missing {
@@ -137,3 +136,4 @@ body {
   font-size: 4.5rem;
   text-transform: uppercase;
 }
+
