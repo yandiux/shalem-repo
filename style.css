@@ -1,0 +1,71 @@
+body {
+  background-color:black;
+  margin:0;
+  padding:0;
+  
+}
+
+.title { 
+  color: #ffff;
+  display:flex;
+  justify-content:center;
+  
+}
+
+.shalem-profile {
+  border-radius: 50%;
+  
+}
+
+.container-uno {
+  width:100%;
+  display:flex;
+  justify-content:center;
+  margin-top:30px;
+  
+}
+
+.shalem-history{
+  
+  color:#ffff;
+  line-height:1.5;
+  margin-left:7px;
+}
+
+.container-dos {
+  width: 100%;
+  margin-left:5px;
+}
+
+.container-tres {
+  width: 100%;
+  margin-left:5px;
+}
+
+.shalem-missing {
+  
+}
+
+.container-cuatro {
+  display:flex;
+  justify-content:center;
+  width:80%;
+  margin-left:35px;
+}
+
+.shalem-missing{
+  
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.donate {
+  margin-top:20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
