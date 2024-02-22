@@ -2,14 +2,7 @@ body {
   background-color: black;
   margin: 0;
   padding: 0;
-  background-image: url("https://img.freepik.com/vector-gratis/fondo-conexion-red-degradado_23-2148865393.jpg?w=1380&t=st=1708615993~exp=1708616593~hmac=a75cbaf98474cca4598b8c3b88a645a65f29cddbb9d96f22cd430fa9d591b1ea"");
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+ 
 }
 
 .title {
